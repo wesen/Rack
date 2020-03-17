@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake-build-debug-cmake-bundled/_deps/googletest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dep/glfw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dep/nanosvg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dep/nanovg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dep/osdialog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dep/oui-blendish" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dep/rtaudio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugins/Fundamental" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugins/slono-vcv-plugin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugins/slono-vcv-plugin/cmake-build-debug-cmake-bundled/_deps/googletest-src" vcs="Git" />
+  </component>
+</project>
