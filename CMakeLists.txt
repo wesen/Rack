@@ -134,3 +134,8 @@ target_sources(racklib PRIVATE
     src/window.cpp
     )
 
+IF (APPLE)
+    target_link_options(racklib PUBLIC "LINKER:-undefined,dynamic_lookup")
+endif ()
+
+
